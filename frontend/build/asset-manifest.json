@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/heart-disease-detector/static/css/main.53b03842.css",
+    "main.js": "/heart-disease-detector/static/js/main.eb509fa5.js",
+    "static/js/549.67c4bc76.chunk.js": "/heart-disease-detector/static/js/549.67c4bc76.chunk.js",
+    "static/js/984.206d4a0a.chunk.js": "/heart-disease-detector/static/js/984.206d4a0a.chunk.js",
+    "index.html": "/heart-disease-detector/index.html",
+    "main.53b03842.css.map": "/heart-disease-detector/static/css/main.53b03842.css.map",
+    "main.eb509fa5.js.map": "/heart-disease-detector/static/js/main.eb509fa5.js.map",
+    "549.67c4bc76.chunk.js.map": "/heart-disease-detector/static/js/549.67c4bc76.chunk.js.map",
+    "984.206d4a0a.chunk.js.map": "/heart-disease-detector/static/js/984.206d4a0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53b03842.css",
+    "static/js/main.eb509fa5.js"
+  ]
+}
